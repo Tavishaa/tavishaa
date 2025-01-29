@@ -1,9 +1,7 @@
 # 💫 About Me:
  I’m currently focused on
 Mastering the art of coding like a wizard—casting spells with React.js, Next.js, and AI/ML, and seeing where this tech journey takes me!<br><br> I’m looking to collaborate on
-Any full-stack projects—especially with someone who’s got the backend skills—to build innovative solutions and solve real-world problems through tech!
-
-<br><br> I’m looking for help with<br>Getting my backend to match my frontend skills. Oh, and if you know any easier way to explain CSS to a 5-year-old, I’m all ears.<br><br>🌱 I’m currently learning<br>Full-stack web development and how to deploy AI models on cloud platforms (spoiler: it involves lots of coffee).<br><br>💬 Ask me about<br>Frontend development, AI/ML, React, or why debugging feels like a workout for the brain.<br><br>⚡ Fun fact<br>I can probably explain a stock market trend better than a pet adoption process (but I'm working on both!).
+Any full-stack projects—especially with someone who’s got the backend skills—to build innovative solutions and solve real-world problems through tech!<br><br> I’m looking for help with<br>Getting my backend to match my frontend skills. Oh, and if you know any easier way to explain CSS to a 5-year-old, I’m all ears.<br><br>🌱 I’m currently learning<br>Full-stack web development and how to deploy AI models on cloud platforms (spoiler: it involves lots of coffee).<br><br>💬 Ask me about<br>Frontend development, AI/ML, React, or why debugging feels like a workout for the brain.<br><br>⚡ Fun fact<br>I can probably explain a stock market trend better than a pet adoption process (but I'm working on both!).
 
 
 ## 🌐 Socials:
