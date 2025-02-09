@@ -1,7 +1,14 @@
-# 💫 About Me:
- I’m currently focused on <br>
-Mastering the art of coding like a wizard—casting spells with React.js, Next.js, and AI/ML, and seeing where this tech journey takes me!<br><br> I’m looking to collaborate on <br>
-Any full-stack projects—especially with someone who’s got the backend skills—to build innovative solutions and solve real-world problems through tech!<br><br> I’m looking for help with<br>Getting my backend to match my frontend skills. Oh, and if you know any easier way to explain CSS to a 5-year-old, I’m all ears.<br><br> I’m currently learning<br>Full-stack web development and how to deploy AI models on cloud platforms (spoiler: it involves lots of coffee).<br><br> Ask me about<br>Frontend development, AI/ML, React, or why debugging feels like a workout for the brain.<br><br>I can probably explain the lifecycle of a bug in code better than I can explain how to properly use z-index (still figuring that one out!).
+# 💫 About Me:  
+Currently out here coding my way through life, making AI models smarter, web apps sleeker, and debugging sessions less soul-crushing (debatable). If it involves tech, innovation, and the occasional dramatic sigh at CSS, I’m all in.
+
+I’m looking to collaborate on
+Anything full-stack, AI-powered, or downright futuristic. Whether it’s a sleek web app, a smart automation tool, or an idea that makes people say, "Wait, you built THAT?"—I want in. Bonus points if it’s fun, challenging, or just an excuse to flex some skills.
+
+I’m looking for help with
+Getting my backend to stop embarrassing me. My frontend is out here serving aesthetics, while my backend is... well, let’s just say it’s still finding itself. Also, if you know the secret to writing CSS without questioning your life choices, let’s talk.
+
+I’m currently learning
+Full-stack development (React, Next.js, Node.js) while also wrangling AI models into cloud deployments like some kind of tech sorceress. Oh, and mastering the delicate balance of hackathons, coffee addiction, and actually getting sleep (spoiler: I’m failing at the last one).
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tavishaajaiswal) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vipinpathak)
@@ -12,4 +19,7 @@ Any full-stack projects—especially with someone who’s got the backend skills
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tavishaa&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
