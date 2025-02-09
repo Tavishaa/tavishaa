@@ -7,7 +7,8 @@
 <h3 align="center">💻 Full-Stack Developer | AI/ML Enthusiast | Digital Alchemist ✨</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=F7BE38&width=580&lines=Turning+Ideas+Into+Code+That+Sparks+Joy!;Making+Backend+Do+The+Heavy+Lifting!;Building+AI+Models+That+Actually+Work!;Crafting+Digital+Experiences+With+Frontend+Magic! ✨" alt="Typing Animation" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=400&size=30&pause=2200&color=F88379&width=500&lines=Frontend+Fanatic,+Backend+Avoider,+Panic+Coder!;Breaking+Code+Faster+Than+Fixing+It!;AI+Whisperer+%28Sometimes%29!" alt="Typing Animation" />
+
 </p>
 
 ---
