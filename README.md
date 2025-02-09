@@ -19,6 +19,11 @@ Full-stack development (React, Next.js, Node.js) while also wrangling AI models 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tavishaa&theme=transparent&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+<h3 align="center">🔥 My Contributions</h3>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tavishaa&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+</p>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
