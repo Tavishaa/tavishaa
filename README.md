@@ -74,7 +74,7 @@ Full-stack dev (React, Next.js, Node.js) and how to train AI models without them
 
 ## 🔥 My Contributions
 <p align="center">
- <img src="https://github-readme-streak-stats.herokuapp.com/?user=tavishaa&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+<!--  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tavishaa&theme=radical&hide_border=true" alt="GitHub Streak Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tavishaa&theme=radical&hide_border=true&layout=compact" alt="Top Languages" />
 </p>
 
